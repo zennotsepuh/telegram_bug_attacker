@@ -1,0 +1,6 @@
+# DEPENDENCIES - INSTALL PAKE INI KONTOL!
+
+telethon>=1.28.0
+colorama>=0.4.6
+requests>=2.28.0
+cryptography>=39.0.0
